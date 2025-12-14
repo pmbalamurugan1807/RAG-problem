@@ -20,6 +20,7 @@ After this you can set the word limit for the summary and then upload the file w
 <img width="500" height="280" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/29e671c2-2526-4c28-b88d-d65e955688b3" />
 
 Now it gives how many sections present in the document and then you can get the summary. It is recommended to get summary for each section as seen below
+
 <img width="500" height="280" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/3647ecab-0aa6-464a-af29-9858c69151e1" />
 <img width="500" height="280" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/a764e183-f88d-478f-900b-c72e42a26823" />
 
