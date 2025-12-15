@@ -9,7 +9,18 @@ and summarize vast amounts of textual data efficiently. The candidate should
 be able to utilize a Large Language Model (LLM) like GPT-4 or its successors to
 accomplish this task.
 
+
 Here I am using gpt-4o-mini model for the summarization
+
+Prerequisites:
+pip install streamlit 
+pip install scikit-learn 
+pip install sentence-transformers 
+pip install numpy 
+pip install PyPDF2 
+pip install openai 
+pip install torch
+
 
 The project is a streamlit program as seen below, input API key first to be able to proceed further
 
